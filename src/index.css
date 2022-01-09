@@ -5,7 +5,7 @@ body{
 }
 
 
-/* ul{
+ul{
   list-style-type: none;
   padding-left: 0;
 }
@@ -14,7 +14,7 @@ h1{
   font-family: "Lobster", "Josefin Sans", Helvetica, Arial, sans-serif;
   font-size: 4em;
   color : #051c33;
-} */
+}
 
 h2{
   
